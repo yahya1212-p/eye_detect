@@ -1,5 +1,6 @@
-opencv-python
-mediapipe
-firebase-admin
-requests
-numpy
+pkgs.python311Full
+pkgs.opencv
+pkgs.python311Packages.requests
+pkgs.python311Packages.numpy
+pkgs.ffmpeg
+
